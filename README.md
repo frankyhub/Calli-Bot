@@ -1,4 +1,4 @@
-# Calli-Bot
+# Calli-Bot Callenge
 Zwei Calliope (Sender und Empfänger) steuern einen Bot
 
 Jedes Team baut einen Calli-Bot. Der Calli-Bot (Empfänger) ist mit einem Luftballon und einer Nadel ausgestattet.
