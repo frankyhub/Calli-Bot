@@ -52,6 +52,9 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Montage.png)
 
+
+![Cali-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Regel.png)
+
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calloipe2.png)
 
 
