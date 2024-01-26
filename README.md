@@ -38,7 +38,6 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/H-Br%C3%BCcke%20L298N.png)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/H-Br%C3%BCcke%20L298N.png)
 
 ---
 ---
