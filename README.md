@@ -20,7 +20,7 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot06.JPG)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot104.JPG)
+![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot04.JPG)
 
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot11.jpg)
 
