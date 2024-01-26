@@ -2,7 +2,7 @@
 Zwei Calliope steuern einen Bot
 
 Jedes Team baut einen Calli-Bot. Der Calli-Bot ist mit einem Luftballon und einer Nadel ausgestattet.
-Ziel ist es, mit der LNadel des Bots den gegnerischen Luftballon zum platzen zu bringen.
+Ziel ist es, mit der Nadel des Bots den gegnerischen Luftballon zum platzen zu bringen.
 Verliert ein Bot seinen Luftballon oder platzt der Luftballon durch Eigenverschulden, scheidet der Bot aus.
 Der Bot darf die Arena nicht verlassen, ansonsten scheidet er aus.
 Gesamtsieger ist das Team, das als einziges noch einen aufgeblasenen Luftballon am Bot hat.
