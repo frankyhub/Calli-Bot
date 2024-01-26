@@ -20,12 +20,12 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot06.JPG)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot10.JPG)
+![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot10.jpg)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot11.JPG)
+![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot11.jpg)
 
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot17.JPG)
+![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot17.jpg)
 
 ---
 
