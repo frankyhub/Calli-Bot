@@ -31,6 +31,25 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ## Calli-Bot Aufbau
 
+| Stueck | Bezeichnung | 
+| -------- | -------- | 
+| 2       | Calliope        | 
+| 1        |JST PH 4PIN       | 
+| 1        | 3D-Druck Calliope Füße        | 
+| 1        | 3D-DruckL298H Füße       |
+| 1      | Nadel (Lanze)      |
+| 1      |  9V-Batterie     |
+| 2       | Getriebemotore      |
+| 2       | Räder     |
+| 1       | H-Brücke L298N     |
+| 1      | 9V-Case       |
+| 10       | Kabelbinder      |
+| 1      | Luftballon-Ring      |
+| 1       | Luftballon-Ringorderrad      |
+| 1       | Kleber      |
+
+
+
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Montage.png)
 
 ![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calloipe2.png)
