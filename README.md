@@ -16,20 +16,20 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ## Die Callenge
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot19.png)
+![Calli-Bot](/pic/Calli-Bot19.png)
 
 ---
 
 ## Calli-Bots
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot06.JPG)
+![Calli-Bot](/pic/Calli-Bot06.JPG)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot04.JPG)
+![Calli-Bot](/pic/Calli-Bot04.JPG)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot11.jpg)
+![Calli-Bot](/pic/Calli-Bot11.jpg)
 
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calli-Bot17.jpg)
+![Calli-Bot](/pic/Calli-Bot17.jpg)
 
 ---
 
@@ -54,15 +54,15 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Montage.png)
+![Calli-Bot](/pic/Montage.png)
 
 
-![Cali-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Regel.png)
+![Cali-Bot](/pic/Regel.png)
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/Calloipe2.png)
+![Calli-Bot](/pic/Calloipe2.png)
 
 
-![Calli-Bot](https://github.com/frankyhub/Calli-Bot/blob/main/pic/H-Br%C3%BCcke%20L298N.png)
+![Calli-Bot](/pic/H-Br%C3%BCcke%20L298N.png)
 
 
 
