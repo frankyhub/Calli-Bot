@@ -77,7 +77,13 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ![Calli-Bot](/pic/H-Br%C3%BCcke%20L298N.png)
 
+![L298N](/pic/L298N2.png)
 
+![L298N](/pic/L298N1.png)
+
+![Speedy](/pic/speedy2.png)
+
+![Speedy](/pic/speedy1.png)
 
 ---
 
