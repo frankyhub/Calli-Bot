@@ -5,15 +5,10 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Calli-Bot/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Calli-Bot/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Calli-Bot/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2007-blue)|<a href="https://github.com/frankyhub/Calli-Bot/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Calli-Bot)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Calli-Bot)|<a href="https://github.com/frankyhub/Calli-Bot/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Calli-Bot)|<a href="https://github.com/frankyhub/Calli-Bot/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Calli-Bot)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Calli-Bot)| <a href="https://github.com/frankyhub/Calli-Bot/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Calli-Bot/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Calli-Bot/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Calli-Bot)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Calli-Bot)|<a href="https://github.com/frankyhub/Calli-Bot/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Calli-Bot)|<a href="https://github.com/frankyhub/Calli-Bot/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Calli-Bot)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20ß7-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Calli-Bot)| <a href="https://github.com/frankyhub/Calli-Bot/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Calli-Bot/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
-
-
-
-
 
 ## Story
 
@@ -30,21 +25,26 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 
 ## Die Callenge
 
-![Calli-Bot](/pic/Calli-Bot19.png)
+<img src="pic/Calli-Bot19.png" width="500"> 
+<br> <br>
 
 ---
 
 ## Calli-Bots
 
-![Calli-Bot](/pic/Calli-Bot06.JPG)
+<img src="pic/Calli-Bot06.png" width="500"> 
+<br> <br>
+       
+<img src="pic/Calli-Bot04.png" width="500"> 
+<br> <br>
 
-![Calli-Bot](/pic/Calli-Bot04.JPG)
+       
+<img src="pic/Calli-Bot11.png" width="500"> 
+<br> <br>
 
-![Calli-Bot](/pic/Calli-Bot11.jpg)
-
-
-![Calli-Bot](/pic/Calli-Bot17.jpg)
-
+<img src="pic/Calli-Bot17.png" width="500"> 
+<br> <br>
+       
 ---
 
 ## Calli-Bot Aufbau
@@ -67,24 +67,32 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 | 1       | Kleber      |
 
 
-
-![Calli-Bot](/pic/Montage.png)
-
-
-![Cali-Bot](/pic/Regel.png)
-
-![Calli-Bot](/pic/Calloipe2.png)
+<img src="pic/Montage.png" width="500"> 
+<br> <br>
 
 
-![Calli-Bot](/pic/H-Br%C3%BCcke%20L298N.png)
+<img src="pic/Regel.png" width="500"> 
+<br> <br>
 
-![L298N](/pic/L298N2.png)
 
-![L298N](/pic/L298N1.png)
+<img src="pic/Calloipe2.png" width="500"> 
+<br> <br>
 
-![Speedy](/pic/speedy2.png)
+<img src="pic/H-Br%C3%BCcke%20L298N.png" width="500"> 
+<br> <br>
 
-![Speedy](/pic/speedy1.png)
+<img src="pic/L298N2.png" width="500"> 
+<br> <br>
+
+<img src="pic/L298N1.png" width="500"> 
+<br> <br>
+
+<img src="pic/speedy2.png" width="500"> 
+<br> <br>
+
+<img src="pic/speedy1.png" width="500"> 
+<br> <br>
+
 
 ---
 
