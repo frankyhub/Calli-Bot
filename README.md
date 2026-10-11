@@ -39,10 +39,10 @@ Bei Unstimmigkeiten entscheidet das Schiedsrichterteam.
 <br> <br>
 
        
-<img src="pic/Calli-Bot11.JPG" width="500"> 
+<img src="pic/Calli-Bot11.jpg" width="500"> 
 <br> <br>
 
-<img src="pic/Calli-Bot17.JPG" width="500"> 
+<img src="pic/Calli-Bot17.jpg" width="500"> 
 <br> <br>
        
 ---
